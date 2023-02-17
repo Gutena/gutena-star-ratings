@@ -1,0 +1,18 @@
+.gutena-star-ratings-block {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    &.align-center {
+        justify-content: center;
+    }
+
+    &.align-right {
+        justify-content: flex-end;
+    }
+
+    svg {
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+}
