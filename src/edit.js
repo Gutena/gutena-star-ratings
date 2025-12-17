@@ -19,6 +19,7 @@ import {
 	alignLeft, 
 	alignRight 
 } from '@wordpress/icons';
+import { sprintf } from 'sprintf-js';
 
 // block ids
 const gutenaRatingsiUniqueIds = [];
