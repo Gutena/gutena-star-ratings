@@ -23,6 +23,7 @@
 	},
 	"dependencies": {
 		"@wordpress/icons": "^9.16.0",
-		"gulp-cli": "^2.3.0"
+		"gulp-cli": "^2.3.0",
+		"sprintf-js": "^1.1.3"
 	}
 }
